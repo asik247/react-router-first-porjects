@@ -8,10 +8,10 @@ const Header = () => {
              {/* <a href="/">About</a>
              <a href="/T">Tablate</a>
              <a href="/Laptop">Laptop</a> */}
-             {/* <NavLink className='ancorStyle' to={'/'}>About</NavLink>
+             <NavLink className='ancorStyle' to={'/'}>About</NavLink>
              <NavLink className='ancorStyle' to={'/T'}>Tablate</NavLink>
              <NavLink className='ancorStyle' to={'/laptop'}>Laptop</NavLink>
-             <NavLink className='ancorStyle' to={'/users'}>Users</NavLink> */}
+             <NavLink className='ancorStyle' to={'/users'}>Users</NavLink>
             </nav>
         </div>
     ) 
